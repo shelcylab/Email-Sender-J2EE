@@ -11,7 +11,7 @@ import javax.mail.internet.*;
 public class SendEmail {
 
     private static String USER_NAME = "cyntianissan";  // Mail user name (just the part before "@gmail.com")
-    private static String PASSWORD = "cyntia123"; // password
+    private static String PASSWORD = " "; // enter password
     private static String RECIPIENT = "cyntianissan@gmail.com";
 //private static String RECIPIENT = "navjyot.kaur@humber.ca";
 
